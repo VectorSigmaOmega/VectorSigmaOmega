@@ -1,5 +1,5 @@
 <h1>Hey, I'm Abhinash Dutta 👋</h1>
-<img src="https://github.com/user-attachments/assets/22e32af1-05eb-4819-83ab-bcd8ddcb65ac" align="right" width="530" alt="Lego developer">
+<img src="https://github.com/user-attachments/assets/798eab95-bd0d-46b0-8301-26cd70de9bf0" align="right" width="530" alt="Lego developer">
 <p><strong>Systems & Backend Developer | CS Student at NIT Silchar</strong></p>
 <p>I build things from scratch to understand how they work—from kernel-level packet tracing to distributed backends.</p>
 
