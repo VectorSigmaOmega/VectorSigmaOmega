@@ -44,3 +44,6 @@
 - 🎯 Currently seeking **internships** and **Software Engineering roles**.
 - ⚡ Fun Fact: *"Eager to learn everything under the sun."*
 
+---
+
+[![An image of @vectorsigmaomega's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vectorsigmaomega)](https://holopin.io/@vectorsigmaomega)
