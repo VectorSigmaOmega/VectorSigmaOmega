@@ -1,52 +1,46 @@
-# Abhinash Dutta
-
-CS student at NIT Silchar. I build things to understand them — sometimes that means writing a container runtime from scratch, sometimes it means injecting eBPF code into the kernel to watch packets fly by at line-rate.
-
-I'm drawn to systems work: the closer to the metal, the better. But I also care about the full stack from kernel hooks to distributed backends to the UI that makes it all usable.
-
----
-
-## What I'm working on
-
-| Project | What it is | Stack |
-|---|---|---|
-| [K-Watch](https://github.com/VectorSigmaOmega/K-Watch) | eBPF/XDP network observability engine — SYN-flood detection + auto-mitigation, sub-5% CPU overhead, CO-RE portable | C++20, libbpf, XDP |
-| [Vortex](https://github.com/VectorSigmaOmega/Vortex) | Container runtime from scratch — namespaces, cgroups, filesystem sandboxing, no external deps | C++20, Linux |
-| [Guardian](https://github.com/VectorSigmaOmega/Guardian) | Fleet monitoring + auto-remediation — alert → Slack → webhook → Ansible runbook loop | Python, Prometheus, Alertmanager, Grafana, Ansible |
-| [SwiftBatch](https://github.com/VectorSigmaOmega/SwiftBatch) | Async image processing backend — production-style with worker queue, object storage, observability | Go, Postgres, Redis, MinIO, Docker, K8s |
-| [Sentinel](https://github.com/VectorSigmaOmega/Sentinel) | Graph-native supply chain intelligence — disruption simulation, blast-radius tracing, recovery recommendations | TypeScript |
-| [PacketForge](https://github.com/VectorSigmaOmega/PacketForge) | Userspace L2/L3 network stack — ARP, ICMP, and raw Ethernet crafted by hand over `AF_PACKET` | C++20 |
-| [BasicRAG](https://github.com/VectorSigmaOmega/BasicRAG) | RAG system over PDFs — FAISS in-memory vector store, Gemini embeddings + synthesis | Python, FastAPI, FAISS, React, Gemini API |
+<div align="center">
+  <h1>Hey, I'm Abhinash Dutta 👋</h1>
+  <p><strong>Systems & Backend Developer | CS Student at NIT Silchar</strong></p>
+  <p>I build things from scratch to understand how they work—from kernel-level packet tracing to distributed backends.</p>
+  
+  <a href="https://www.abhinash.dev/">Portfolio</a> • 
+  <a href="mailto:abhinashjrt22@gmail.com">Email</a>
+</div>
 
 ---
 
-## Stack
+### 🛠️ Tech Stack
 
-```
-Systems    C++20 · C · eBPF/XDP · libbpf · Linux internals
-Backend    Go · Python · TypeScript · FastAPI · REST
-Infra      Docker · Kubernetes · Prometheus · Grafana · Ansible
-Data       PostgreSQL · Redis · MinIO · FAISS
-Frontend   React · Vite
-```
+- **Systems & Kernel:** `C++20` `C` `eBPF/XDP` `libbpf` `Linux Internals`
+- **Backend Architecture:** `Go` `Python` `TypeScript` `FastAPI`
+- **Data & Storage:** `PostgreSQL` `Redis` `MinIO` `FAISS`
+- **Infra & DevOps:** `Docker` `Kubernetes` `Prometheus` `Ansible`
 
 ---
 
-## A few older things
+### 🚀 Featured Work
 
-- **[Collaborate.](https://github.com/VectorSigmaOmega/Collaborate.)** — real-time shared whiteboard (JS, WebSockets)
-- **[AStar](https://github.com/VectorSigmaOmega/AStar)** — A\* pathfinding visualizer (Python + Pygame)
-- **[TicTacToe](https://github.com/VectorSigmaOmega/TicTacToe)** — minimax solver (C++)
-- **[Matrix-Rain](https://github.com/VectorSigmaOmega/Matrix-Rain)** — console matrix rain effect (C)
+**[K-Watch](https://github.com/VectorSigmaOmega/K-Watch)** • *C++, eBPF/XDP*  
+> High-performance network observability engine. Features SYN-flood detection and auto-mitigation with sub-5% CPU overhead using custom kernel hooks.
+
+**[Vortex](https://github.com/VectorSigmaOmega/Vortex)** • *C++, Linux*  
+> A zero-dependency container runtime built from the ground up leveraging Linux namespaces, cgroups, and filesystem sandboxing.
+
+**[SwiftBatch](https://github.com/VectorSigmaOmega/SwiftBatch)** • *Go, Postgres, Redis, K8s*  
+> Production-grade async image processing backend equipped with a robust worker queue, object storage, and observability.
+
+**[Guardian](https://github.com/VectorSigmaOmega/Guardian)** • *Python, Prometheus, Ansible*  
+> Fleet monitoring and auto-remediation pipeline bridging alerts from Prometheus directly to automated Ansible playbooks.
+
+**[PacketForge](https://github.com/VectorSigmaOmega/PacketForge)** • *C++20*  
+> Userspace L2/L3 network stack. Hand-crafting ARP, ICMP, and raw Ethernet frames directly over `AF_PACKET`.
 
 ---
 
-## Connect
+### 💡 Quick Facts
 
-- Portfolio: [abhinash.dev](https://www.abhinash.dev/)
-- Email: abhinashjrt22@gmail.com
-- Open to: internships, SWE roles, anything interesting
+- 🎓 Studying Computer Science at **NIT Silchar**.
+- 🧠 Systems programming enthusiast: the closer to the metal, the better.
+- 🎯 Currently seeking **internships** and **Software Engineering roles**.
+- ⚡ Fun Fact: *"Eager to learn everything under the sun."*
 
----
-
-*"Eager to learn everything under the sun."*
