@@ -1,3 +1,4 @@
+<!-- HIDE_FROM_PORTFOLIO -->
 <h1>Hey, I'm Abhinash Dutta 👋</h1>
 <br>
 <img src="https://github.com/user-attachments/assets/c38ce8a6-9720-4fef-b15f-a929e108a7c7" align="right" width="450" alt="Lego developer">
