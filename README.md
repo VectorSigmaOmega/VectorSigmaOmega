@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey, I'm Abhinash Dutta 👋</h1>
-  <p><strong>Systems & Backend Developer | CS Student at NIT Silchar</strong></p>
+  <p><strong>Systems & Backend Developer | ECE Student at NIT Silchar</strong></p>
   <p>I build things from scratch to understand how they work—from kernel-level packet tracing to distributed backends.</p>
   
   <a href="https://www.abhinash.dev/">Portfolio</a> • 
