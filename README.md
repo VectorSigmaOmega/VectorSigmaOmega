@@ -1,7 +1,7 @@
 <h1>Hey, I'm Abhinash Dutta 👋</h1>
 <br>
 <img src="https://github.com/user-attachments/assets/c38ce8a6-9720-4fef-b15f-a929e108a7c7" align="right" width="450" alt="Lego developer">
-<p><strong>Systems & Backend Developer | CS Student at NIT Silchar</strong></p>
+<p><strong>Systems & Backend Developer | ECE Student at NIT Silchar</strong></p>
 <p>I build things from scratch to understand how they work—from kernel-level packet tracing to distributed backends.</p>
 
 <a href="https://www.abhinash.dev/">Portfolio</a> • 
