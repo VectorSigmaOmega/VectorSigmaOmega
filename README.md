@@ -39,7 +39,7 @@
 
 ### 💡 Quick Facts
 
-- 🎓 Studying Computer Science at **NIT Silchar**.
+- 🎓 Studying Electronics and Communication Engineering at **NIT Silchar**.
 - 🧠 Systems programming enthusiast: the closer to the metal, the better.
 - 🎯 Currently seeking **internships** and **Software Engineering roles**.
 - ⚡ Fun Fact: *"Eager to learn everything under the sun."*
