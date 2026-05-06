@@ -1,4 +1,4 @@
-# Hey, I'm Abhinash Dutta
+# Hey, I'm Abhinash Dutta  👋
 
 <img src="https://github.com/user-attachments/assets/c38ce8a6-9720-4fef-b15f-a929e108a7c7" align="right" width="340" alt="Lego developer">
 
