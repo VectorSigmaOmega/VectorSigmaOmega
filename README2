@@ -2,15 +2,15 @@
 
 <img src="https://github.com/user-attachments/assets/c38ce8a6-9720-4fef-b15f-a929e108a7c7" align="right" width="420" alt="Lego developer">
 
-**Backend Engineer | Applied AI Builder | Systems Programmer**
+**Backend Engineer | AI Engineer | Systems Programmer**
 
 I build software across three layers:
 
 - **Backend systems** with reliable APIs, queues, storage, and observability
-- **Applied AI products** using agents, retrieval, and tool-using workflows
+- **Applied AI products** using agents, retrieval, evaluation, and tool-using workflows
 - **Low-level systems** close to the Linux kernel, networking stack, and runtime internals
 
-I like building things from scratch to understand how they work, whether that means packet tracing with eBPF, designing distributed backends, or wiring up practical AI systems end to end.
+I like building things from scratch to understand how they work, whether that means packet tracing with eBPF, designing distributed backends, or shipping retrieval and agent systems with real evaluation, tracing, and cost controls.
 
 [Portfolio](https://www.abhinash.dev/) •
 [LinkedIn](https://www.linkedin.com/in/abhinash-dutta-58335224a) •
@@ -21,7 +21,7 @@ I like building things from scratch to understand how they work, whether that me
 ### What I’m Targeting
 
 - **Backend Engineering** roles building APIs, async systems, storage-heavy services, and platform infrastructure
-- **AI Engineering** roles focused on agents, RAG, workflow orchestration, and productionizing LLM-backed applications
+- **AI Engineering** roles focused on agents, RAG, evaluation, workflow orchestration, and productionizing LLM-backed applications
 - **Systems / C++ Engineering** roles involving Linux internals, networking, performance-sensitive software, and low-level runtime work
 
 ---
@@ -31,7 +31,7 @@ I like building things from scratch to understand how they work, whether that me
 - **Systems & Runtime:** `C++20` `C` `Linux Internals` `eBPF/XDP` `libbpf` `Namespaces` `cgroups`
 - **Backend:** `Go` `Python` `TypeScript` `FastAPI` `PostgreSQL` `Redis` `MinIO`
 - **Infra & Ops:** `Docker` `Kubernetes` `Prometheus` `Ansible`
-- **Applied AI:** `FAISS` `RAG Pipelines` `Agents` `Tool Use` `Workflow Automation`
+- **Applied AI:** `LangGraph` `FAISS` `pgvector` `RAG Pipelines` `Agents` `RAGAS` `Langfuse` `Tool Use` `Workflow Automation` `MCP`
 
 ---
 
@@ -58,7 +58,13 @@ Monitoring and auto-remediation pipeline that bridges alerts from Prometheus to 
 
 **Applied AI**
 
-I’m targeting AI engineering on the application side: agentic systems, retrieval-backed workflows, and production LLM integrations rather than core ML research. My focus is on building useful software around models, not training models from scratch.
+**Anchor** • *Python, FastAPI, LangGraph, PostgreSQL, pgvector, Langfuse*  
+Citation-grounded RAG system over Indian financial regulations using hybrid retrieval, reranking, and continuous evaluation. Built around BM25 plus dense retrieval, PR-based evals, and citation-validated generation rather than naive prompt stuffing.
+
+**Steward** • *Python, LangGraph, MCP, E2B, PostgreSQL, pgvector*  
+Autonomous GitHub issue triage and resolution agent with an explicit state-machine loop, sandboxed tool execution, memory across runs, and hard cost controls for practical production use.
+
+My AI focus is application-side engineering: agentic systems, retrieval-backed workflows, LLM evaluation, and production integrations rather than model training or research.
 
 ---
 
