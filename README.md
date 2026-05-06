@@ -27,7 +27,7 @@
 **[Vortex](https://github.com/VectorSigmaOmega/Vortex)** • *C++, Linux*  
 > A zero-dependency container runtime built from the ground up leveraging Linux namespaces, cgroups, and filesystem sandboxing.
 
-**[SwiftBatch](https://github.com/VectorSigmaOmega/SwiftBatch)** • *Go, Postgres, Redis, K8s*  
+**[Photon](https://github.com/VectorSigmaOmega/Photon)** • *Go, Postgres, Redis, K8s*  
 > Production-grade async image processing backend equipped with a robust worker queue, object storage, and observability.
 
 **[Guardian](https://github.com/VectorSigmaOmega/Guardian)** • *Python, Prometheus, Ansible*  
