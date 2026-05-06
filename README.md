@@ -12,7 +12,7 @@ I build applied AI products, backend systems, and low-level Linux software. Most
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 - **Applied AI:** `LangGraph` `FAISS` `pgvector` `RAG Pipelines` `Agents` `RAGAS` `Langfuse` `MCP` `Google Gemini`
 - **Backend:** `Go` `Python` `TypeScript` `FastAPI` `PostgreSQL` `Redis` `MinIO`
@@ -21,9 +21,9 @@ I build applied AI products, backend systems, and low-level Linux software. Most
 
 ---
 
-### Selected Work
+## Featured Projects
 
-**Applied AI**
+### Applied AI
 
 **Anchor** • *Python, FastAPI, LangGraph, PostgreSQL, pgvector, Langfuse*  
 Citation-grounded RAG system over Indian financial regulations using hybrid retrieval, reranking, and continuous evaluation.
@@ -31,7 +31,7 @@ Citation-grounded RAG system over Indian financial regulations using hybrid retr
 **Steward** • *Python, LangGraph, MCP, E2B, PostgreSQL, pgvector*  
 Autonomous GitHub issue triage and resolution agent with explicit state-machine control, sandboxed tool execution, and memory across runs.
 
-**Backend / Infra**
+### Backend / Infra
 
 **[Photon](https://github.com/VectorSigmaOmega/Photon)** • *Go, Postgres, Redis, Kubernetes*  
 Async image-processing backend with worker queues, object storage, and observability.
@@ -39,7 +39,7 @@ Async image-processing backend with worker queues, object storage, and observabi
 **[Guardian](https://github.com/VectorSigmaOmega/Guardian)** • *Python, Prometheus, Ansible*  
 Monitoring and auto-remediation pipeline that bridges Prometheus alerts to automated Ansible playbooks.
 
-**Systems / C++**
+### Systems / C++
 
 **[K-Watch](https://github.com/VectorSigmaOmega/K-Watch)** • *C++, eBPF/XDP*  
 High-performance network observability engine with SYN-flood detection and auto-mitigation built on kernel-level instrumentation with sub-5% CPU overhead.
