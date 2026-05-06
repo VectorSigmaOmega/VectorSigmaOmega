@@ -2,9 +2,9 @@
 
 <img src="https://github.com/user-attachments/assets/c38ce8a6-9720-4fef-b15f-a929e108a7c7" align="right" width="340" alt="Lego developer">
 
-**Backend Engineer | AI Engineer | Systems Programmer**
+**AI Engineer | Backend Engineer | Systems Programmer**
 
-I build backend systems, applied AI products, and low-level Linux software. Most of my work sits around distributed services, retrieval and agent workflows, and systems close to the kernel and networking stack.
+I build applied AI products, backend systems, and low-level Linux software. Most of my work sits around retrieval and agent workflows, distributed services, and systems close to the kernel and networking stack.
 
 [Portfolio](https://www.abhinash.dev/) •
 [LinkedIn](https://www.linkedin.com/in/abhinash-dutta-58335224a) •
@@ -14,14 +14,30 @@ I build backend systems, applied AI products, and low-level Linux software. Most
 
 ### Tech Stack
 
-- **Systems & Runtime:** `C++20` `C` `Linux Internals` `eBPF/XDP` `libbpf` `Namespaces` `cgroups`
+- **Applied AI:** `LangGraph` `FAISS` `pgvector` `RAG Pipelines` `Agents` `RAGAS` `Langfuse` `MCP` `Google Gemini`
 - **Backend:** `Go` `Python` `TypeScript` `FastAPI` `PostgreSQL` `Redis` `MinIO`
-- **Infra & Ops:** `Docker` `Kubernetes` `Prometheus` `Ansible`
-- **Applied AI:** `LangGraph` `FAISS` `pgvector` `RAG Pipelines` `Agents` `RAGAS` `Langfuse` `Tool Use` `Workflow Automation` `MCP`
+- **Infra & Ops:** `Docker` `Kubernetes` `Prometheus` `Grafana` `Alertmanager` `Ansible` `Caddy`
+- **Systems & Runtime:** `C++20` `C` `Linux Internals` `eBPF/XDP` `libbpf` `Namespaces` `cgroups`
 
 ---
 
 ### Selected Work
+
+**Applied AI**
+
+**Anchor** • *Python, FastAPI, LangGraph, PostgreSQL, pgvector, Langfuse*  
+Citation-grounded RAG system over Indian financial regulations using hybrid retrieval, reranking, and continuous evaluation.
+
+**Steward** • *Python, LangGraph, MCP, E2B, PostgreSQL, pgvector*  
+Autonomous GitHub issue triage and resolution agent with explicit state-machine control, sandboxed tool execution, and memory across runs.
+
+**Backend / Infra**
+
+**[Photon](https://github.com/VectorSigmaOmega/Photon)** • *Go, Postgres, Redis, Kubernetes*  
+Async image-processing backend with worker queues, object storage, and observability.
+
+**[Guardian](https://github.com/VectorSigmaOmega/Guardian)** • *Python, Prometheus, Ansible*  
+Monitoring and auto-remediation pipeline that bridges Prometheus alerts to automated Ansible playbooks.
 
 **Systems / C++**
 
@@ -33,22 +49,6 @@ Zero-dependency container runtime built from scratch using Linux namespaces, cgr
 
 **[PacketForge](https://github.com/VectorSigmaOmega/PacketForge)** • *C++20*  
 Userspace L2/L3 network stack that hand-crafts ARP, ICMP, and raw Ethernet frames over `AF_PACKET`.
-
-**Backend / Infra**
-
-**[Photon](https://github.com/VectorSigmaOmega/Photon)** • *Go, Postgres, Redis, Kubernetes*  
-Async image-processing backend with worker queues, object storage, and observability.
-
-**[Guardian](https://github.com/VectorSigmaOmega/Guardian)** • *Python, Prometheus, Ansible*  
-Monitoring and auto-remediation pipeline that bridges Prometheus alerts to automated Ansible playbooks.
-
-**Applied AI**
-
-**Anchor** • *Python, FastAPI, LangGraph, PostgreSQL, pgvector, Langfuse*  
-Citation-grounded RAG system over Indian financial regulations using hybrid retrieval, reranking, and continuous evaluation.
-
-**Steward** • *Python, LangGraph, MCP, E2B, PostgreSQL, pgvector*  
-Autonomous GitHub issue triage and resolution agent with explicit state-machine control, sandboxed tool execution, and memory across runs.
 
 ECE student at **NIT Silchar**, currently seeking **internships** and **software engineering roles**.
 
