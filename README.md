@@ -29,7 +29,7 @@ I build applied AI products, backend systems, and low-level Linux software. Most
   Citation-grounded RAG system over Indian financial regulations using hybrid retrieval, reranking, and continuous evaluation.
 
 - **[Chiron](https://github.com/VectorSigmaOmega/Chiron)** • *Python, FastAPI, LangGraph, React, PostgreSQL, Gemini*  
-  Evidence-grounded medical research assistant for clinicians with retrieval planning, citation-backed synthesis, and verification gates that abstain when support is weak or unsafe.
+  Agentic, evidence-grounded medical research assistant for clinicians with retrieval planning, citation-backed synthesis, and verification gates that abstain when support is weak or unsafe.
 
 ### Backend / Infra
 
