@@ -25,11 +25,11 @@ I build applied AI products, backend systems, and low-level Linux software. Most
 
 ### Applied AI
 
-- **[Anchor](https://github.com/VectorSigmaOmega/Anchor)** • *Python, FastAPI, LangGraph, PostgreSQL, pgvector, Langfuse*  
-  Citation-grounded RAG system over Indian financial regulations using hybrid retrieval, reranking, and continuous evaluation.
-
 - **[Chiron](https://github.com/VectorSigmaOmega/Chiron)** • *Python, FastAPI, LangGraph, React, SQLAlchemy, Gemini*<br>
   Evidence-grounded agentic medical research assistant for clinicians with session-scoped chat, LangGraph retrieval planning across medical sources, citation-backed synthesis, live run traces, and verification gates that clarify or abstain when support is weak.
+
+- **[Anchor](https://github.com/VectorSigmaOmega/Anchor)** • *Python, FastAPI, LangGraph, PostgreSQL, pgvector, Langfuse*  
+  Citation-grounded RAG system over Indian financial regulations using hybrid retrieval, reranking, and continuous evaluation.
 
 ### Backend / Infra
 
