@@ -36,7 +36,7 @@ I build applied AI products, backend systems, and low-level Linux software. Most
 - **[Photon](https://github.com/VectorSigmaOmega/Photon)** • *Go, Postgres, Redis, Kubernetes*  
   Async image-processing backend with worker queues, object storage, and observability.
 
-- **[Collaborate.](https://github.com/VectorSigmaOmega/Collaborate.)** • *TypeScript, React, Express, Socket.IO*
+- **[Collaborate.](https://github.com/VectorSigmaOmega/Collaborate)** • *TypeScript, React, Express, Socket.IO*
   Anonymous real-time whiteboard with server-owned room state, typed shared contracts, reconnect-safe sessions, and bounded persistence.
     
 - **[Guardian](https://github.com/VectorSigmaOmega/Guardian)** • *Python, Prometheus, Ansible*  
